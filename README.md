@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋🏽, my name is Judit
+I'm web development student. I like to develop Frontend projects and I am discovering the charming side of the backend to be a Fullstack Web.
 
 <!--
+![Cover image](link_de_la_imagen)
+
 **juditmariaproject/juditmariaproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
