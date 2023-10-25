@@ -1,5 +1,5 @@
 # Hi there 👋🏽, my name is Judit
-I'm web development student. I like developing Frontend projects and I am discovering the charming side of the backend to be a Fullstack Web developer.
+I'm a web development student. I like developing frontend projects, and I'm discovering the charming side of the backend to be a full-stack web developer.
 
 <!--
 ![Cover image](link_de_la_imagen)
