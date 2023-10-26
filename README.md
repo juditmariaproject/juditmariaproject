@@ -1,5 +1,7 @@
+![readmeCoverByjuditmariaproject](https://github.com/juditmariaproject/juditmariaproject/blob/main/readmeCover.jpeg)
+
 # About Judit Maria
-I'm a web development student. I like developing **frontend** projects, and I'm discovering the charming side of the **backend** to be a **fullstack** web developer.
+Hello World! 👋🏽 I'm a web development student. I like developing **frontend** projects, and I'm discovering the charming side of the **backend** to be a **fullstack** web developer.
 
 <!--
 ![Cover image](link_de_la_imagen)
