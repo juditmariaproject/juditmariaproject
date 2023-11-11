@@ -1,6 +1,6 @@
-<!--README.md code-->
+<!-- README.md code -->
 
-<!--Cover image | ![alt](link)-->
+<!-- Cover image | ![alt](link) -->
 ![imgReadmeCoverByjuditmariaproject](https://github.com/juditmariaproject/juditmariaproject/blob/main/readmeCoverGithub.jpeg)
 
 <hr>
@@ -33,7 +33,7 @@
 
 <!--  About me -->
 # About Judit Maria
-Hello World 👋🏽! I'm a web development student. I like developing **frontend** projects, and I'm discovering the charming side of the **backend** to be a **fullstack** web developer.
+Hello World 👋🏽! I'm a web **development student**. I like developing **frontend** projects, and I'm discovering the charming side of the **backend** to be a **fullstack** web developer.
 
 <!-- Technologies -->
 
