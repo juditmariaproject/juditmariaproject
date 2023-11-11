@@ -1,21 +1,42 @@
-![readmeCoverByjuditmariaproject](https://github.com/juditmariaproject/juditmariaproject/blob/main/readmeCoverGithub.jpeg)
+<!--README.md code-->
 
+<!--Cover image | ![alt](link)-->
+![imgReadmeCoverByjuditmariaproject](https://github.com/juditmariaproject/juditmariaproject/blob/main/readmeCoverGithub.jpeg)
+
+<hr>
+
+<!-- Languages selector -->
+<div align="left" style="border: none;>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/juditmariaproject/">
+          <img 
+            src="https://github.com/juditmariaproject/juditmariaproject/blob/main/united-kingdom.png"
+            alt="English"
+            width="40"
+          >
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/juditmariaproject/juditmariaproject-es">
+          <img 
+              src="https://github.com/juditmariaproject/juditmariaproject/blob/main/spain.png"
+              alt="Español"
+              width="30"
+          >
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!--  About me -->
 # About Judit Maria
 Hello World 👋🏽! I'm a web development student. I like developing **frontend** projects, and I'm discovering the charming side of the **backend** to be a **fullstack** web developer.
 
-<!--
-![Cover image](link_de_la_imagen)
+<!-- Technologies -->
 
-**juditmariaproject/juditmariaproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Projects -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Fun facts -->
