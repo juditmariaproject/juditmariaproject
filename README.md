@@ -1,7 +1,7 @@
 <!-- README.md code -->
 
 <!-- Cover image | ![alt](link) -->
-![imgReadmeCoverByjuditmariaproject](https://github.com/juditmariaproject/juditmariaproject/blob/main/readmeCoverGithub.jpeg)
+![imgReadmeCoverByjuditmariaproject](https://github.com/juditmariaproject/juditmariaproject/blob/main/img/readmeCoverGithub.png)
 
 <hr>
 
@@ -10,18 +10,18 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/juditmariaproject/">
+        <a href="https://github.com/juditmariaproject/juditmariaproject/tree/main#readme">
           <img 
-            src="https://github.com/juditmariaproject/juditmariaproject/blob/main/united-kingdom.png"
+            src="https://github.com/juditmariaproject/juditmariaproject/blob/main/img/united-kingdom.png"
             alt="English"
             width="40"
           >
         </a>
       </td>
       <td>
-        <a href="https://github.com/juditmariaproject/juditmariaproject-es">
+        <a href="https://github.com/juditmariaproject/juditmariaproject-es#readme">
           <img 
-              src="https://github.com/juditmariaproject/juditmariaproject/blob/main/spain.png"
+              src="https://github.com/juditmariaproject/juditmariaproject/blob/main/img/spain.png"
               alt="Español"
               width="30"
           >
