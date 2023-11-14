@@ -35,8 +35,13 @@
 # About Judit Maria
 Hello World 👋🏽! I'm a web **development student**. I like developing **frontend** projects, and I'm discovering the charming side of the **backend** to be a **fullstack** web developer.
 
+
+## Coming soon...
 <!-- Technologies -->
+## Technologies
 
 <!-- Projects -->
+## Projects
 
 <!-- Fun facts -->
+## Fun facts
