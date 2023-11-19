@@ -37,7 +37,7 @@ Hello World 👋🏽! I'm a web **development student**. I like developing **fro
 
 <!-- Technologies-->
 ## Technologies
-  <a href="https://skillicons.dev">
+  <a href="https://www.w3schools.com">
     <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,git" />
   </a>
 
